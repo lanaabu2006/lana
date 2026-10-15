@@ -1,0 +1,14 @@
+{
+  "name": "lanaabu2006-skills",
+  "owner": {
+    "name": "lanaabu2006"
+  },
+  "plugins": [
+    {
+      "name": "lana",
+      "source": "./",
+      "description": "Turn a paper into five bullets: title, question, method, result, limitation.",
+      "version": "1.0.0"
+    }
+  ]
+}
