@@ -13,10 +13,10 @@ From a local copy of this folder, run these inside Claude Code:
 /plugin install lana@lanaabu2006-skills
 ```
 
-From GitHub, once this folder is the root of a repository:
+From GitHub:
 
 ```
-/plugin marketplace add lanaabu2006/<repository-name>
+/plugin marketplace add lanaabu2006/lana
 /plugin install lana@lanaabu2006-skills
 ```
 
