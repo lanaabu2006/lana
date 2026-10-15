@@ -1,0 +1,9 @@
+{
+  "name": "lana",
+  "version": "1.0.0",
+  "description": "Turn a paper into five bullets: title, question, method, result, limitation.",
+  "author": {
+    "name": "lanaabu2006"
+  },
+  "license": "MIT"
+}
